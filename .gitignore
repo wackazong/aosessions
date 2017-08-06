@@ -2,4 +2,4 @@ Samples/
 *.aif
 *DS_Store
 ._*
-*Icon
+./*/Icon
